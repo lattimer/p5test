@@ -11,7 +11,7 @@ var platformWidth = 0;
 var platformX = 0;
 var platformY = 300;
 var platformVel = 2;
-
+//Its a me
 function setup() {
     createCanvas(canvasWidth, canvasHeight);
     stroke(255);
